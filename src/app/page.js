@@ -396,7 +396,7 @@ export default function StudentScheduleManager() {
           </div>
         </TabsContent>
       </Tabs>
-      <footer><p className='text-center text-gray-500 py-2'>Created by Anish Kumar Singh</p></footer>
+      <footer><p className='text-center text-gray-500 py-2'>Created by Pulkit Sinha</p></footer>
     </div>
   )
 }

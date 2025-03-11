@@ -243,7 +243,7 @@ export default function StudentScheduleManager() {
             <h3 className="text-lg font-semibold mb-4">Schedule View ({view})</h3>
             <DailySchedule subjects={subjects} />
             <div className="mt-4">
-              <h4 className="font-medium mb-2">Exams</h4>
+              <h4 className="font-medium mb-2"></h4>
               <ul className="space-y-2">
                 {exams.map((exam) => (
                   <li key={exam.id} className="p-2 bg-gray-100 rounded">
